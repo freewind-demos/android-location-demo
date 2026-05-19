@@ -1,4 +1,4 @@
-package demos
+package demos.android.location.demo
 
 import android.Manifest
 import android.content.pm.PackageManager
